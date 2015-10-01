@@ -1,3 +1,9 @@
+PCRF
+====
+
+PCRF is an efficient C++ library for supervised sequence labeling using
+Conditional Random Fields. 
+
 Installation
 ============
 
